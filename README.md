@@ -1,2 +1,1 @@
-# fizzbuzz-flask
-FizzBuzz in Flask
+# FizzBuzz in Flask
